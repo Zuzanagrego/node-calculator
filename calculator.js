@@ -1,4 +1,4 @@
-//Hi Jason, just venting out a little here, please don't get mad!
+//https://www.npmjs.com/package/readline-sync
 
 var rs = require("readline-sync");
 const prompt = require("prompt-sync")({ sigint: true });
